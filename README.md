@@ -5,4 +5,5 @@
   <li>i`m interested in front-end development</li>
   <li>starting to learning JS</li>
   <li>telegram: @zertiv</li>
+  <li>beginner musician</li>
 </ul>
