@@ -3,7 +3,7 @@
 <ul>
   <li>Viktoriia Prokopiv</li>
   <li>i`m interested in front-end development</li>
-  <li>starting to learning JS</li>
+  <li>starting to learn JS</li>
   <li>telegram: @zertiv</li>
-  <li>beginner musician</li>
+  <li>beginner guitarist and bassist</li>
 </ul>
